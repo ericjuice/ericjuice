@@ -1,4 +1,5 @@
-[Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)
+
 ### Hi there 👋
 
 <!--
