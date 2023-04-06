@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Welcome to visit my blog https://blog.ericjuice.cn
 
-![![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](github.com/ericjuice)
+[![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](github.com/ericjuice)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjuice&layout=compact)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)
