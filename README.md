@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ericjuice@qq.com or ericjuice5@gmail.com
 - 😄 Pronouns: He
 - ⚡ Welcome to visit my blog https://blog.ericjuice.cn
+
+
 <table>
   <tr>
-    <td>
-[![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/ericjuice)
+    <td><img src='https://github-readme-stats-ericjuice.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/ericjuice)'>
     </td>
-    
-    <td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjuice&layout=compact)
+    <td><img src='https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=ericjuice&layout=compact'>
     </td>
    </tr>
 </table>
