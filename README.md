@@ -1,4 +1,4 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)](github.com/ericjuice)
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)
 ### Hi there 👋
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Welcome to visit my blog https://blog.ericjuice.cn
 
-[![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](github.com/ericjuice)
+[![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/ericjuice)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjuice&layout=compact)
 
