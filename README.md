@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a student in Nankai University in China
+- 🌱 I’m currently learning c++ and network system
+- 📫 How to reach me: ericjuice@qq.com or ericjuice5@gmail.com
+- 😄 Pronouns: He
+- ⚡ Welcome to visit my blog https://blog.ericjuice.cn
 
-![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)
+![![Ericjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjuice&hide=prs,issues&show_icons=true&theme=tokyonight)](github.com/ericjuice)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjuice&layout=compact)
 
