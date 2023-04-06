@@ -1,3 +1,4 @@
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)](github.com/ericjuice)
 ### Hi there 👋
 
 <!--
@@ -24,4 +25,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjuice&layout=compact)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue)
