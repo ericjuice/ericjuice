@@ -1,6 +1,5 @@
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue) -->
-PV:![visitors_pv](https://visitor_badge.deta.dev/?id=github.ericjuice.ericjuice&labelColor=blue)
-UV:![visitors_uv](https://visitor_badge.deta.dev/?id=github.ericjuice.ericjuice&labelColor=blue&type='uv')
+![visitors_pv](https://visitor_badge.deta.dev/?id=github.ericjuice.ericjuice&labelColor=blue)
 
 ### Hi there 👋
 
