@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <tr>
     <td><img src='https://github-readme-stats-ericjuice.vercel.app/api?username=ericjuice&hide=issues&show_icons=true&theme=tokyonight'>
     </td>
-    <td><img src='https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=ericjuice&layout=compact'>
+    <td><img src='https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=ericjuice'>
     </td>
    </tr>
 </table>
