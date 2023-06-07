@@ -1,5 +1,5 @@
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ericjuice.ericjuice&left_color=gray&right_color=blue) -->
-![visitors_pv](https://visitor_badge.deta.dev/?id=github.ericjuice.ericjuice&labelColor=blue)
+<!--![visitors_pv](https://visitor_badge.deta.dev/?id=github.ericjuice.ericjuice&labelColor=blue)-->
 
 ### Hi there 👋
 
