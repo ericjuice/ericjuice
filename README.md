@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a student in Nankai University in China
-- 🌱 I’m currently learning C++/Golang and network system
+- 🌱 I’m currently learning C++/Python/Golang and network system
 - 📫 How to reach me: ericjuice@qq.com or ericjuice5@gmail.com
 - 😄 Pronouns: He
 - ⚡ Welcome to visit my blog https://blog.ericjuice.cn
