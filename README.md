@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++/Python/Golang and network system
 - 📫 How to reach me: ericjuice@qq.com or ericjuice5@gmail.com
 - 😄 Pronouns: He
-- ⚡ Welcome to visit my blog https://blog.ericjuice.cn
+- ⚡ Welcome to visit my blog https://blog.juis.top
 
 
 <table>
