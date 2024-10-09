@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🔭 I’m currently a student in Nankai University in China
 - 🌱 I’m currently learning C++/Python/Golang and network system
+-->
+
+- 🔭 I'm currently a recent graduated worker in an Internet company
 - 📫 How to reach me: ericjuice@qq.com or ericjuice5@gmail.com
 - 😄 Pronouns: He
 - ⚡ Welcome to visit my blog https://blog.juis.top
